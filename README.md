@@ -8,7 +8,7 @@ Questo programma permette di trasferire i dati relativi ai ricevimenti dei profe
 ##### *version 01.01* :
 - Gestione degli argomenti. **-v"** per attivare il verbose. 
 - Scrittura su un file di log, **sync.log**, delle azione compiute ed eventuali errori
-- Gestione di un file di configurazione `json` dove è neccessario inserire le informazioni per l'accesso ai database
+- Gestione di un file di configurazione `json` dove sono inserite le informazioni per l'accesso ai database
 
 ### **COME INSTALLARE LE LIBRERIE DI PYTHON NECESSARIE AL SOFTWARE (GUIDA PER KALI LINUX / DEBIAN)**
 - Aprire il terminale in modalità amministratore.
