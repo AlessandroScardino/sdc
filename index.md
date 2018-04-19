@@ -1,5 +1,5 @@
 # *AREA-LAB 4CI 2017-2018*
-###*Esposizione dei vari progetti realizzati durante l'area di progetto della classe 4CI (2017-2018)*
+### *Esposizione dei vari progetti realizzati durante l'area di progetto della classe 4CI (2017-2018)*
 ###
 
 > **DATABASE SYNC**
